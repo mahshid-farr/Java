@@ -1,0 +1,20 @@
+Lab Assignment Submission Form
+==========================================================================
+I/we declare that the attached assignment is my/our own work in accordance with Seneca Academic Policy. No
+part of this assignment has been copied manually or electronically from any other source (including web sites) or
+distributed to other students.
+
+Name(s): Mahshid Farrahinia     Student ID(s): 144091196
+
+------------------------------------------------------------------------------------------------------------------------------------- 
+
+In this lab at fisrt I created two interfaces which keep my username and password information in Oracle databse
+also they keep some basic information such as dirver and URL for connecting to database.
+
+Then I created 2 classes:
+
+One of the classes called  ShowEmployeeInfoByID  use input from user to query employees table by employee_id
+(I couldn't use OCI driver, because I Downloaded it and add the path in my environmental variable of my windows)
+
+Then in another class i worte a PL/SQL procedure to query first and last name of employee and total number of employees who works in specific department
+
